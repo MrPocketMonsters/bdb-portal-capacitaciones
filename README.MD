@@ -7,9 +7,8 @@
 
 ## 📁 Estructura conceptual del repo
 - apps/  
-  - app-api-gateway/
-  - app-user-management/
-  - app-course-management/
+  - bdb-app-user-management/
+  - bdb-app-course-management/
 - diseño/  
   - diagrama_arquitectura.drawio.pdf  
   - diagrama_er.drawio.pdf  
