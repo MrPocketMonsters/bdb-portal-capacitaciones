@@ -4,3 +4,6 @@
 [submodule "apps/bdb-app-course-management"]
 	path = apps/bdb-app-course-management
 	url = https://github.com/MrPocketMonsters/bdb-app-course-management
+[submodule "apps/bdb-app-frontend"]
+	path = apps/bdb-app-frontend
+	url = https://github.com/MrPocketMonsters/bdb-app-frontend
